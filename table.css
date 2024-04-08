@@ -1,0 +1,30 @@
+.table-responsive {
+    overflow-y: hidden;
+    border: 1px solid rgba(0, 0, 0, 0.274);
+ }
+ 
+ table{
+    width: 100%;
+    background-color: rgba(180, 192, 204, 0.088);
+    padding: 1px;
+
+ }
+
+ th, td {
+    
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+    text-align: center;
+
+  }
+  
+ tr:hover{
+    background-color: rgba(180, 192, 204, 0.236);
+ }
+
+ .table-active{
+    background-color: rgba(180, 192, 204, 0.236);
+ }
+
